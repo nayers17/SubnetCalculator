@@ -1,3 +1,5 @@
+preschool level subnet calculator i haven't had enough time to boot into a virtual machine and work on developing an application that will go into your network and subnet your network for you based off input/output 
+
 # Subnet Calculator
 
 Welcome to the Subnet Calculator!
